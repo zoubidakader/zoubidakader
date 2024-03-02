@@ -42,14 +42,14 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoubidakader&theme=radical&show_icons=true)
 ## Spring boot Developer, and Data Scientist !!
--  Hi 👋, I’m @zoubida kader Java Developer BackEnd & Data Scientist
+-  Hi 👋, I’m @zoubida kader fullstack Developer
 
         
 - 🌱 I’m currently student in Computer Vision in AI field<br>
 - 📖 I’m currently learning everything 🤣 <br>
 - 👯 I’m looking to collaborate with other companies like freelance <br>
 - 🥅 2022 Goals: Learn more about Java, Java Jee, Spring Boot and Computer Vision  <br>
-- 📫 How to reach me : Email : zoubidakader@gmail.com / Phone : +212 666 756 069 <br>
+- 📫 How to reach me : Email : zoubidakader@gmail.com <br>
 
 
 
